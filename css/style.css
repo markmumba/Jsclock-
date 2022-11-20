@@ -1,0 +1,9 @@
+.time {
+    font-size :3rem;
+    color: rgb(204, 204, 192);
+    text-align : center;
+    padding-top: 16%;
+}
+.card {
+    box-shadow:10px 10px 10px 4px rgb(102, 99, 99);
+}
